@@ -109,7 +109,6 @@ I'm an **M.Sc. Information Technology student** and aspiring **Full-Stack Develo
 | 💼 **LinkedIn** | [jaydip-solanki](https://www.linkedin.com/in/jaydip-solanki-7269a7238/) |
 | 🧑‍💻 **GitHub** | [@codedwithjaydip](https://github.com/codedwithjaydip) |
 | 📧 **Email** | [jaydip3174@gmail.com](mailto:jaydip3174@gmail.com) |
-| 📱 **Phone** | +91 7096358911 |
 | 🌐 **Portfolio** | Coming Soon 🚧 |
 
 </div>
