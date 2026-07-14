@@ -22,7 +22,7 @@
 <a href="mailto:jaydip3174@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e"/>
 </a>
-<a href="tel:+917096358911">
+<a href="">
   <img src="https://img.shields.io/badge/Call%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=1a1a2e"/>
 </a>
 
